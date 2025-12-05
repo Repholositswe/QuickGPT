@@ -40,7 +40,3 @@ I followed a tutorial from **GreatStack on YouTube**, and then added my own feat
 
 ---
 
-## Environment Variables
-
-I used a `.env` file in the **server** directory to store my secrets:
-
